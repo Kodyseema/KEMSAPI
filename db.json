@@ -1,0 +1,25 @@
+{
+  "ContactList": {
+ 
+  "Contacts": [
+    {
+      "companyName": "Silicagel Products Mfg. Co",
+      "comID": "4565",
+      "comAdd": "Prahlad Nagar,Ahmedabad",
+      "conPerson": "Mr Sagar Bagsariya",
+      "ConPerNum": 9426528276,
+      "ConMailId": "sagar.bagsariya@gmail.com"
+    },
+    {
+      "companyName": "Unison Pharmaceuticals Pvt. Ltd",
+      "comID": "4565",
+      "comAdd": "Jodhpur, Ahmedabad",
+      "conPerson": "Mr shivas Chaturvedi",
+      "ConPerNum": 9456778899,
+      "ConMailId": "sagar.bagsariya@gmail.com"
+    }
+  ],
+  "result": 1,
+  "message": "Record Found Successfully !!!"
+}
+}
