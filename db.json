@@ -1,24 +1,136 @@
 {
-  "ContactList": {
-  "Contacts": [
-    {
-      "companyName": "Silicagel Products Mfg. Co",
-      "comID": "4565",
-      "comAdd": "Prahlad Nagar,Ahmedabad",
-      "conPerson": "Mr Sagar Bagsariya",
-      "ConPerNum": 9426528276,
-      "ConMailId": "sagar.bagsariya@gmail.com"
-    },
-    {
-      "companyName": "Unison Pharmaceuticals Pvt. Ltd",
-      "comID": "4565",
-      "comAdd": "Jodhpur, Ahmedabad",
-      "conPerson": "Mr shivas Chaturvedi",
-      "ConPerNum": 9456778899,
-      "ConMailId": "sagar.bagsariya@gmail.com"
-    }
-  ],
-  "result": 1,
-  "message": "Record Found Successfully !!!"
-}
+  "Leaves": {
+    "Leavelist": [
+      {
+        "LeaveType": "Other",
+        "IsPartial": "Yes",
+        "TotalDays": "0.5",
+        "LeaveStatus": "Approved",
+        "ApplayDate": "15/02/2018",
+        "StartDate": "18/02/2018",
+        "StartTime": "10:30 AM",
+        "EndDate": "18/02/2018",
+        "EndTime": "02:30 PM",
+        "ReasonLeave": "I have some important work to do at home . ",
+        "ReasonRejected": "",
+        "Department": "Sales",
+        "SeniorPerson": "mark henry"
+      },
+      {
+        "LeaveType": "Sick Leave",
+        "IsPartial": "No",
+        "TotalDays": "5",
+        "LeaveStatus": "Approved",
+        "ApplayDate": "15/06/2018",
+        "StartDate": "16/06/2018",
+        "StartTime": "",
+        "EndDate": "20/06/2018",
+        "EndTime": "",
+        "ReasonLeave": "I have some important work to do at home . ",
+        "ReasonRejected": "",
+        "Department": "Sales",
+        "SeniorPerson": "mark henry"
+      },
+      {
+        "LeaveType": "Sick Leave",
+        "IsPartial": "No",
+        "TotalDays": "1",
+        "LeaveStatus": "Approved",
+        "ApplayDate": "10/04/2018",
+        "StartDate": "27/04/2018",
+        "StartTime": "",
+        "EndDate": "28/04/2018",
+        "EndTime": "",
+        "ReasonLeave": "I am ill . ",
+        "ReasonRejected": "",
+        "Department": "Sales",
+        "SeniorPerson": "henry"
+      },
+      {
+        "LeaveType": "Casual leave",
+        "IsPartial": "No",
+        "TotalDays": "2",
+        "LeaveStatus": "Approved",
+        "ApplayDate": "01/04/2018",
+        "StartDate": "05/04/2018",
+        "StartTime": "",
+        "EndDate": "06/04/2018",
+        "EndTime": "",
+        "ReasonLeave": "I need to go to native as my grandpa is making a Will and distributing property! And he has requested everyone who is getting property needs to sign in some documents!!",
+        "ReasonRejected": "",
+        "Department": "Sales",
+        "SeniorPerson": "mark henry"
+      },
+      {
+        "LeaveType": "Personal leave",
+        "IsPartial": "No",
+        "TotalDays": "1",
+        "LeaveStatus": "Rejected",
+        "ApplayDate": "05/05/2018",
+        "StartDate": "06/05/2018",
+        "StartTime": "",
+        "EndDate": "06/05/2018",
+        "EndTime": "",
+        "ReasonLeave": " My son is not concentrating on studies and the class teacher called me for coming. Need to discuss face to face",
+        "ReasonRejected": "As requested Day there is no one who take care of your work . so you need to plan some other days .",
+        "Department": "Sales",
+        "SeniorPerson": "mark henry"
+      },
+      {
+        "LeaveType": "Personal leave",
+        "IsPartial": "No",
+        "TotalDays": "11",
+        "LeaveStatus": "Approved",
+        "ApplayDate": "01/03/2018",
+        "StartDate": "20/03/2018",
+        "StartTime": "",
+        "EndDate": "30/03/2018",
+        "EndTime": "",
+        "ReasonLeave": " As you know recently I got married in previous month I have a plan to go for honeymoon in Dubai .",
+        "ReasonRejected": "",
+        "Department": "Sales",
+        "SeniorPerson": "mark henry"
+      },
+      {
+        "LeaveType": "Other",
+        "IsPartial": "No",
+        "TotalDays": "1",
+        "LeaveStatus": "Draft",
+        "ApplayDate": "",
+        "StartDate": "08/08/2018",
+        "StartTime": "",
+        "EndDate": "08/08/2018",
+        "EndTime": "",
+        "ReasonLeave": " My distance cousin is getting married and I can’t afford to miss that. Actually he came home to invite me personally.",
+        "ReasonRejected": "",
+        "Department": "Sales",
+        "SeniorPerson": "mark henry"
+      },
+      {
+        "LeaveType": "Personal leave",
+        "IsPartial": "No",
+        "TotalDays": "2",
+        "LeaveStatus": "Draft",
+        "ApplayDate": "",
+        "StartDate": "09/05/2018",
+        "StartTime": "",
+        "EndDate": "10/05/2018",
+        "EndTime": "",
+        "ReasonLeave": " My distance cousin is getting married and I can’t afford to miss that. Actually he came home to invite me personally.",
+        "ReasonRejected": "",
+        "Department": "Sales",
+        "SeniorPerson": "mark henry"
+      }
+    ],
+    "FinancYear": "2017-2018",
+    "totalLeaves": 24,
+    "LeavesTaken": 10,
+    "PersonalLeave": 6,
+    "CasualLeave": 1,
+    "SickLeave": 3,
+    "OptionalLeave": 1,
+    "Other": 0,
+    "result": 1,
+    "message": "Record Found Successfully !!!"
+  }
 }
